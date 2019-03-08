@@ -1,0 +1,5 @@
+C:\Users\Lisa\Documents\Visual Studio 2010\Projects\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\xnaplatformerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Cameron\Desktop\csc281-bestgirl\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\xnaplatformerContent.contentprojResolveAssemblyReference.cache
+D:\Development\csc281-bestgirl\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\xnaplatformerContent.contentprojResolveAssemblyReference.cache
+C:\Users\anast_000\development\CSC281\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\xnaplatformerContent.contentprojResolveAssemblyReference.cache
